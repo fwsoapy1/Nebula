@@ -3,7 +3,7 @@ local LP = Players.LocalPlayer
 local pid = game.PlaceId
 
 if pid == 286090429 or pid == 301549746 or pid == 11746368176 then
-loadstring(game:HttpGet("raw.githubusercontent.com/fwsoapy1/Nebula/refs/heads/main/3games.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fwsoapy1/Nebula/refs/heads/main/3games.lua"))()
 elseif pid == 8204899140 then
     print("not done yet")
 elseif pid == 17625359962 or pid == 17516596118 then
